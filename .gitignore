@@ -12,3 +12,6 @@
 
 # module build outputs
 build/
+
+# 시연 영상 작업본 (최종본은 docs/demo/)
+/gilwe_demo*.mp4
