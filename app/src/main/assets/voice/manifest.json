@@ -1,0 +1,1476 @@
+{
+ "intro:changdeokgung": {
+  "en": [
+   {
+    "text": "A palace shaped by nature",
+    "file": "en/intro_changdeokgung_0.m4a",
+    "ms": 1540
+   },
+   {
+    "text": "Changdeokgung offers a different way to imagine a royal palace.",
+    "file": "en/intro_changdeokgung_1.m4a",
+    "ms": 3469
+   },
+   {
+    "text": "Its buildings and gardens were arranged around an uneven landscape, rather than forcing every space into a single rigid plan.",
+    "file": "en/intro_changdeokgung_2.m4a",
+    "ms": 6788
+   },
+   {
+    "text": "The route from the main gate to the throne hall even turns along the way.",
+    "file": "en/intro_changdeokgung_3.m4a",
+    "ms": 3297
+   },
+   {
+    "text": "Injeongjeon introduces the public world of royal ceremony.",
+    "file": "en/intro_changdeokgung_4.m4a",
+    "ms": 3526
+   },
+   {
+    "text": "Beyond it, Huwon reveals a quieter setting of water, trees and pavilions.",
+    "file": "en/intro_changdeokgung_5.m4a",
+    "ms": 4566
+   },
+   {
+    "text": "This course connects those two sides of court life: the palace as a place of power, and the garden as a retreat.",
+    "file": "en/intro_changdeokgung_6.m4a",
+    "ms": 6105
+   },
+   {
+    "text": "Before your visit, check the current entrance arrangements and reserve Secret Garden access separately if you want to include it.",
+    "file": "en/intro_changdeokgung_7.m4a",
+    "ms": 6447
+   }
+  ],
+  "ko": [
+   {
+    "text": "자연을 거스르지 않은 궁궐",
+    "file": "ko/intro_changdeokgung_0.m4a",
+    "ms": 1810
+   },
+   {
+    "text": "창덕궁은 궁궐을 상상하는 또 다른 방법을 보여 줘요.",
+    "file": "ko/intro_changdeokgung_1.m4a",
+    "ms": 3795
+   },
+   {
+    "text": "건물과 정원은 모든 공간을 하나의 반듯한 틀에 끼워 맞추는 대신, 고르지 않은 지형을 따라 배치됐어요.",
+    "file": "ko/intro_changdeokgung_2.m4a",
+    "ms": 7410
+   },
+   {
+    "text": "정문에서 정전으로 가는 길조차 중간에 방향을 틀어요.",
+    "file": "ko/intro_changdeokgung_3.m4a",
+    "ms": 3783
+   },
+   {
+    "text": "인정전은 왕실 의례가 펼쳐지던 공적인 세계를 보여 주고, 그 너머의 후원은 물과 나무, 정자가 어우러진 한결 고요한 공간을 드러내요.",
+    "file": "ko/intro_changdeokgung_4.m4a",
+    "ms": 9354
+   },
+   {
+    "text": "이 코스는 궁중 생활의 두 얼굴, 권력의 공간인 궁궐과 쉼터인 정원을 이어 줘요.",
+    "file": "ko/intro_changdeokgung_5.m4a",
+    "ms": 5883
+   },
+   {
+    "text": "방문 전에 현재 출입 방식을 확인하고, 후원까지 둘러보려면 따로 예약하세요.",
+    "file": "ko/intro_changdeokgung_6.m4a",
+    "ms": 5691
+   }
+  ]
+ },
+ "intro:namhansanseong": {
+  "en": [
+   {
+    "text": "The mountain that became a capital",
+    "file": "en/intro_namhansanseong_0.m4a",
+    "ms": 1800
+   },
+   {
+    "text": "Namhansanseong was planned as an emergency capital for the Joseon dynasty.",
+    "file": "en/intro_namhansanseong_1.m4a",
+    "ms": 4279
+   },
+   {
+    "text": "Within the mountain defenses were spaces for royal life, government and a resident community.",
+    "file": "en/intro_namhansanseong_2.m4a",
+    "ms": 5157
+   },
+   {
+    "text": "During the Qing invasion that began in 1636, King Injo and his court took refuge here.",
+    "file": "en/intro_namhansanseong_3.m4a",
+    "ms": 5591
+   },
+   {
+    "text": "The resistance lasted forty-seven days before surrender.",
+    "file": "en/intro_namhansanseong_4.m4a",
+    "ms": 3042
+   },
+   {
+    "text": "The site carries that difficult history alongside remarkable engineering.",
+    "file": "en/intro_namhansanseong_5.m4a",
+    "ms": 3971
+   },
+   {
+    "text": "After parking, the temporary palace introduces the royal refuge; Sueojangdae explains military observation; and the walls show how the mountain shaped the defense.",
+    "file": "en/intro_namhansanseong_6.m4a",
+    "ms": 9969
+   },
+   {
+    "text": "These are places to explore on foot.",
+    "file": "en/intro_namhansanseong_7.m4a",
+    "ms": 2088
+   },
+   {
+    "text": "The story is not only about holding a fortress, but about keeping a kingdom functioning during a crisis.",
+    "file": "en/intro_namhansanseong_8.m4a",
+    "ms": 5747
+   }
+  ],
+  "ko": [
+   {
+    "text": "도읍이 된 산",
+    "file": "ko/intro_namhansanseong_0.m4a",
+    "ms": 930
+   },
+   {
+    "text": "남한산성은 조선의 비상 도읍으로 계획됐어요.",
+    "file": "ko/intro_namhansanseong_1.m4a",
+    "ms": 3236
+   },
+   {
+    "text": "산속 방어 시설 안에 왕실 생활과 행정, 그리고 주민들이 사는 공간이 있었죠.",
+    "file": "ko/intro_namhansanseong_2.m4a",
+    "ms": 5500
+   },
+   {
+    "text": "1636년 청나라의 침입이 시작되자 인조와 조정은 이곳으로 피신했어요.",
+    "file": "ko/intro_namhansanseong_3.m4a",
+    "ms": 5598
+   },
+   {
+    "text": "항전은 47일 동안 이어진 끝에 항복으로 끝났어요.",
+    "file": "ko/intro_namhansanseong_4.m4a",
+    "ms": 3815
+   },
+   {
+    "text": "이곳에는 그 아픈 역사와 함께 놀라운 축성 기술이 남아 있어요.",
+    "file": "ko/intro_namhansanseong_5.m4a",
+    "ms": 4200
+   },
+   {
+    "text": "주차한 뒤에는 행궁에서 왕실의 피난처를, 수어장대에서 군사적 관측을, 성벽에서 산이 방어를 어떻게 만들었는지 걸으며 볼 수 있어요.",
+    "file": "ko/intro_namhansanseong_6.m4a",
+    "ms": 9468
+   },
+   {
+    "text": "이 이야기는 성을 지켜 낸 것만이 아니라, 위기 속에서도 나라를 움직이게 한 이야기예요.",
+    "file": "ko/intro_namhansanseong_7.m4a",
+    "ms": 5314
+   }
+  ]
+ },
+ "intro:hwaseong": {
+  "en": [
+   {
+    "text": "The king's road to Suwon",
+    "file": "en/intro_hwaseong_0.m4a",
+    "ms": 1440
+   },
+   {
+    "text": "In 1795, King Jeongjo travelled to Hwaseong with his mother, Lady Hyegyeong, for celebrations marking her sixtieth birthday.",
+    "file": "en/intro_hwaseong_1.m4a",
+    "ms": 8681
+   },
+   {
+    "text": "Their journey crossed the Han River on a temporary bridge of boats.",
+    "file": "en/intro_hwaseong_2.m4a",
+    "ms": 3469
+   },
+   {
+    "text": "Along the modern drive, stories connected with the king lead toward Suwon: an enduring stone bridge, a pass remembered for his devotion to his father, and an old roadside pine-tree belt.",
+    "file": "en/intro_hwaseong_3.m4a",
+    "ms": 10503
+   },
+   {
+    "text": "At Hwaseong Haenggung, Bongsudang Hall brings the birthday story into focus.",
+    "file": "en/intro_hwaseong_4.m4a",
+    "ms": 4662
+   },
+   {
+    "text": "This route links places associated with Jeongjo across different moments in history; it does not reproduce every step of the 1795 procession.",
+    "file": "en/intro_hwaseong_5.m4a",
+    "ms": 9576
+   },
+   {
+    "text": "The historical road and today's drivable route are related, but they are not identical.",
+    "file": "en/intro_hwaseong_6.m4a",
+    "ms": 4435
+   }
+  ],
+  "ko": [
+   {
+    "text": "정조가 걸은 수원 가는 길",
+    "file": "ko/intro_hwaseong_0.m4a",
+    "ms": 1868
+   },
+   {
+    "text": "1795년 정조는 어머니 혜경궁 홍씨의 회갑을 기념하기 위해 어머니와 함께 화성으로 행차했어요.",
+    "file": "ko/intro_hwaseong_1.m4a",
+    "ms": 7235
+   },
+   {
+    "text": "행렬은 배를 이어 만든 임시 다리로 한강을 건넜죠.",
+    "file": "ko/intro_hwaseong_2.m4a",
+    "ms": 3524
+   },
+   {
+    "text": "지금 달리는 길을 따라 정조와 이어진 이야기들이 수원까지 이어져요.",
+    "file": "ko/intro_hwaseong_3.m4a",
+    "ms": 4560
+   },
+   {
+    "text": "오래도록 남은 돌다리, 아버지를 향한 효심으로 기억되는 고개, 그리고 오래된 길가 소나무 숲이에요.",
+    "file": "ko/intro_hwaseong_4.m4a",
+    "ms": 6685
+   },
+   {
+    "text": "화성행궁에 이르면 봉수당에서 회갑 잔치 이야기가 펼쳐져요.",
+    "file": "ko/intro_hwaseong_5.m4a",
+    "ms": 4277
+   },
+   {
+    "text": "이 경로는 역사의 여러 순간에 정조와 이어진 장소들을 잇지만, 1795년 행렬의 모든 걸음을 그대로 재현하지는 않아요.",
+    "file": "ko/intro_hwaseong_6.m4a",
+    "ms": 8704
+   },
+   {
+    "text": "옛 길과 오늘 차로 달리는 길은 이어져 있지만, 똑같지는 않아요.",
+    "file": "ko/intro_hwaseong_7.m4a",
+    "ms": 4466
+   }
+  ]
+ },
+ "intro:folkvillage": {
+  "en": [
+   {
+    "text": "A village made for stories",
+    "file": "en/intro_folkvillage_0.m4a",
+    "ms": 1471
+   },
+   {
+    "text": "Opened in 1974, the Korean Folk Village brings together traditional houses from across the country.",
+    "file": "en/intro_folkvillage_1.m4a",
+    "ms": 6158
+   },
+   {
+    "text": "Many period dramas have been filmed on its streets.",
+    "file": "en/intro_folkvillage_2.m4a",
+    "ms": 2837
+   }
+  ],
+  "ko": [
+   {
+    "text": "이야기를 위해 남은 마을",
+    "file": "ko/intro_folkvillage_0.m4a",
+    "ms": 1576
+   },
+   {
+    "text": "1974년 문을 연 한국민속촌에는 전국의 전통 가옥이 모여 있어요.",
+    "file": "ko/intro_folkvillage_1.m4a",
+    "ms": 5355
+   },
+   {
+    "text": "수많은 사극이 이 골목에서 촬영됐어요.",
+    "file": "ko/intro_folkvillage_2.m4a",
+    "ms": 2724
+   }
+  ]
+ },
+ "intro:nami": {
+  "en": [
+   {
+    "text": "Tree-lined paths on the river",
+    "file": "en/intro_nami_0.m4a",
+    "ms": 1474
+   },
+   {
+    "text": "Nami Island became known across Asia after the 2002 drama Winter Sonata filmed its tree-lined paths.",
+    "file": "en/intro_nami_1.m4a",
+    "ms": 6241
+   }
+  ],
+  "ko": [
+   {
+    "text": "강 위의 가로수길",
+    "file": "ko/intro_nami_0.m4a",
+    "ms": 1302
+   },
+   {
+    "text": "남이섬은 2002년 드라마 〈겨울연가〉가 가로수길을 촬영한 뒤 아시아 곳곳에 알려졌어요.",
+    "file": "ko/intro_nami_1.m4a",
+    "ms": 5883
+   }
+  ]
+ },
+ "cd1": {
+  "en": [
+   {
+    "text": "Gwanghwamun crossing",
+    "file": "en/cd1_0.m4a",
+    "ms": 1176
+   },
+   {
+    "text": "As you pass Gwanghwamun, you are between two palaces.",
+    "file": "en/cd1_1.m4a",
+    "ms": 3176
+   },
+   {
+    "text": "Gyeongbokgung was the main palace, but kings often preferred Changdeokgung, the one you are heading to.",
+    "file": "en/cd1_2.m4a",
+    "ms": 6007
+   }
+  ],
+  "ko": [
+   {
+    "text": "광화문 네거리",
+    "file": "ko/cd1_0.m4a",
+    "ms": 1047
+   },
+   {
+    "text": "광화문을 지나는 지금, 두 궁궐 사이에 있어요.",
+    "file": "ko/cd1_1.m4a",
+    "ms": 3218
+   },
+   {
+    "text": "정궁은 경복궁이었지만 많은 왕들은 지금 향하는 창덕궁에서 머무는 걸 더 좋아했어요.",
+    "file": "ko/cd1_2.m4a",
+    "ms": 5931
+   }
+  ]
+ },
+ "cd2": {
+  "en": [
+   {
+    "text": "Donhwamun Gate",
+    "file": "en/cd2_0.m4a",
+    "ms": 888
+   },
+   {
+    "text": "Donhwamun is Changdeokgung's main gate.",
+    "file": "en/cd2_1.m4a",
+    "ms": 2165
+   },
+   {
+    "text": "It was first built in 1412, but the timber building did not survive the Japanese invasions of the sixteenth century.",
+    "file": "en/cd2_2.m4a",
+    "ms": 6707
+   },
+   {
+    "text": "It was rebuilt in the early seventeenth century.",
+    "file": "en/cd2_3.m4a",
+    "ms": 2469
+   },
+   {
+    "text": "Today another chapter is unfolding: conservation work is underway.",
+    "file": "en/cd2_4.m4a",
+    "ms": 4063
+   },
+   {
+    "text": "This is a reminder that a historic palace survives through repair and care, not by remaining untouched.",
+    "file": "en/cd2_5.m4a",
+    "ms": 5501
+   }
+  ],
+  "ko": [
+   {
+    "text": "돈화문",
+    "file": "ko/cd2_0.m4a",
+    "ms": 640
+   },
+   {
+    "text": "돈화문은 창덕궁의 정문이에요.",
+    "file": "ko/cd2_1.m4a",
+    "ms": 2161
+   },
+   {
+    "text": "1412년에 처음 세워졌지만, 목조 건물은 16세기 임진왜란을 견디지 못했어요.",
+    "file": "ko/cd2_2.m4a",
+    "ms": 6307
+   },
+   {
+    "text": "17세기 초에 다시 지어졌죠.",
+    "file": "ko/cd2_3.m4a",
+    "ms": 2388
+   },
+   {
+    "text": "지금은 또 다른 장이 펼쳐지고 있어요.",
+    "file": "ko/cd2_4.m4a",
+    "ms": 2564
+   },
+   {
+    "text": "보수 공사가 진행 중이거든요.",
+    "file": "ko/cd2_5.m4a",
+    "ms": 2043
+   },
+   {
+    "text": "오래된 궁궐은 손대지 않고 남아서가 아니라, 고치고 돌보며 살아남는다는 걸 보여 줘요.",
+    "file": "ko/cd2_6.m4a",
+    "ms": 6186
+   }
+  ]
+ },
+ "cd3": {
+  "en": [
+   {
+    "text": "Injeongjeon Hall",
+    "file": "en/cd3_0.m4a",
+    "ms": 1146
+   },
+   {
+    "text": "Injeongjeon was the palace's great ceremonial hall.",
+    "file": "en/cd3_1.m4a",
+    "ms": 3108
+   },
+   {
+    "text": "Kings were enthroned here, royal weddings were celebrated, and envoys from other countries were received.",
+    "file": "en/cd3_2.m4a",
+    "ms": 5535
+   },
+   {
+    "text": "Its grand setting was part of the message: visitors were entering the formal world of the Joseon court.",
+    "file": "en/cd3_3.m4a",
+    "ms": 5360
+   },
+   {
+    "text": "Think of this as a stage for the kingdom's most public moments, rather than an everyday royal living room.",
+    "file": "en/cd3_4.m4a",
+    "ms": 5550
+   }
+  ],
+  "ko": [
+   {
+    "text": "인정전",
+    "file": "ko/cd3_0.m4a",
+    "ms": 763
+   },
+   {
+    "text": "인정전은 궁궐의 으뜸 의례 공간이었어요.",
+    "file": "ko/cd3_1.m4a",
+    "ms": 2772
+   },
+   {
+    "text": "이곳에서 왕이 즉위하고, 왕실 혼례가 치러지고, 다른 나라의 사신을 맞았어요.",
+    "file": "ko/cd3_2.m4a",
+    "ms": 5755
+   },
+   {
+    "text": "웅장한 공간 자체가 메시지였죠.",
+    "file": "ko/cd3_3.m4a",
+    "ms": 2424
+   },
+   {
+    "text": "이곳에 들어서는 사람은 조선 조정의 공식적인 세계로 들어선다는 뜻이었어요.",
+    "file": "ko/cd3_4.m4a",
+    "ms": 5059
+   },
+   {
+    "text": "왕의 일상적인 거처라기보다, 나라의 가장 공적인 순간들이 펼쳐진 무대라고 생각해 보세요.",
+    "file": "ko/cd3_5.m4a",
+    "ms": 6870
+   }
+  ]
+ },
+ "cd4": {
+  "en": [
+   {
+    "text": "Huwon, the Secret Garden",
+    "file": "en/cd4_0.m4a",
+    "ms": 1766
+   },
+   {
+    "text": "Behind the formal palace lies Huwon, often called the Secret Garden.",
+    "file": "en/cd4_1.m4a",
+    "ms": 3870
+   },
+   {
+    "text": "This was a place for the royal family to rest.",
+    "file": "en/cd4_2.m4a",
+    "ms": 2564
+   },
+   {
+    "text": "Rather than flattening the land into one rigid pattern, the garden works with its slopes, water and wooded setting.",
+    "file": "en/cd4_3.m4a",
+    "ms": 6113
+   },
+   {
+    "text": "Pavilions and ponds become part of that landscape.",
+    "file": "en/cd4_4.m4a",
+    "ms": 2705
+   },
+   {
+    "text": "The surprise is how a royal retreat can feel so closely connected to nature.",
+    "file": "en/cd4_5.m4a",
+    "ms": 4191
+   }
+  ],
+  "ko": [
+   {
+    "text": "후원",
+    "file": "ko/cd4_0.m4a",
+    "ms": 459
+   },
+   {
+    "text": "격식 있는 궁궐 뒤편에는 흔히 비원이라고도 부르는 후원이 있어요.",
+    "file": "ko/cd4_1.m4a",
+    "ms": 4194
+   },
+   {
+    "text": "왕실 가족이 쉬던 곳이에요.",
+    "file": "ko/cd4_2.m4a",
+    "ms": 2052
+   },
+   {
+    "text": "땅을 평평하게 깎아 하나의 틀에 맞추는 대신, 정원은 비탈과 물, 숲을 그대로 살렸어요.",
+    "file": "ko/cd4_3.m4a",
+    "ms": 6534
+   },
+   {
+    "text": "정자와 연못도 그 풍경의 일부가 되었죠.",
+    "file": "ko/cd4_4.m4a",
+    "ms": 2889
+   },
+   {
+    "text": "왕실의 쉼터가 이렇게 자연과 가깝게 느껴진다는 게 놀라운 점이에요.",
+    "file": "ko/cd4_5.m4a",
+    "ms": 4745
+   }
+  ]
+ },
+ "nh1": {
+  "en": [
+   {
+    "text": "Songpa crossing",
+    "file": "en/nh1_0.m4a",
+    "ms": 1094
+   },
+   {
+    "text": "Long before the bridges, travellers crossed the Han River here by ferry on their way to the southern fortress.",
+    "file": "en/nh1_1.m4a",
+    "ms": 5704
+   }
+  ],
+  "ko": [
+   {
+    "text": "송파나루",
+    "file": "ko/nh1_0.m4a",
+    "ms": 774
+   },
+   {
+    "text": "다리가 놓이기 훨씬 전, 사람들은 이 근처 나루에서 배를 타고 한강을 건너 남쪽 산성으로 향했어요.",
+    "file": "ko/nh1_1.m4a",
+    "ms": 7467
+   }
+  ]
+ },
+ "nh2": {
+  "en": [
+   {
+    "text": "Fortress walls",
+    "file": "en/nh2_0.m4a",
+    "ms": 1104
+   },
+   {
+    "text": "These walls belonged to more than a military outpost.",
+    "file": "en/nh2_1.m4a",
+    "ms": 2854
+   },
+   {
+    "text": "Namhansanseong was a fortified city, with places for administration, worship and daily life inside its defenses.",
+    "file": "en/nh2_2.m4a",
+    "ms": 6935
+   },
+   {
+    "text": "Buddhist monk-soldiers helped build and defend it.",
+    "file": "en/nh2_3.m4a",
+    "ms": 2326
+   },
+   {
+    "text": "The mountain was part of the protection, and the fortifications developed as weapons changed.",
+    "file": "en/nh2_4.m4a",
+    "ms": 4946
+   },
+   {
+    "text": "Following a section of wall on foot reveals how carefully the city and the terrain worked together.",
+    "file": "en/nh2_5.m4a",
+    "ms": 4854
+   }
+  ],
+  "ko": [
+   {
+    "text": "남한산성 성곽",
+    "file": "ko/nh2_0.m4a",
+    "ms": 1332
+   },
+   {
+    "text": "이 성벽은 단순한 군사 초소의 것이 아니었어요.",
+    "file": "ko/nh2_1.m4a",
+    "ms": 3364
+   },
+   {
+    "text": "남한산성은 방어 시설 안에 관청과 사찰, 일상생활의 공간이 있던 성곽 도시였어요.",
+    "file": "ko/nh2_2.m4a",
+    "ms": 6243
+   },
+   {
+    "text": "승병들도 성을 쌓고 지키는 데 힘을 보탰죠.",
+    "file": "ko/nh2_3.m4a",
+    "ms": 3270
+   },
+   {
+    "text": "산 자체가 방어의 일부였고, 무기가 바뀌면서 성곽 시설도 함께 발전했어요.",
+    "file": "ko/nh2_4.m4a",
+    "ms": 5674
+   },
+   {
+    "text": "성벽 한 구간을 직접 걸어 보면 도시와 지형이 얼마나 정교하게 맞물렸는지 알 수 있어요.",
+    "file": "ko/nh2_5.m4a",
+    "ms": 6324
+   }
+  ]
+ },
+ "nh3": {
+  "en": [
+   {
+    "text": "Sueojangdae",
+    "file": "en/nh3_0.m4a",
+    "ms": 838
+   },
+   {
+    "text": "Sueojangdae was built for military command and observation.",
+    "file": "en/nh3_1.m4a",
+    "ms": 3300
+   },
+   {
+    "text": "Namhansanseong once had five command posts; this is the only one that remains.",
+    "file": "en/nh3_2.m4a",
+    "ms": 4915
+   },
+   {
+    "text": "Its elevated position helps explain the choice: defending a mountain fortress meant reading the surrounding terrain as well as guarding its walls.",
+    "file": "en/nh3_3.m4a",
+    "ms": 7682
+   },
+   {
+    "text": "The pavilion was expanded to two storeys in 1751, so its present form reflects more than one period of the fortress's history.",
+    "file": "en/nh3_4.m4a",
+    "ms": 7976
+   }
+  ],
+  "ko": [
+   {
+    "text": "수어장대",
+    "file": "ko/nh3_0.m4a",
+    "ms": 832
+   },
+   {
+    "text": "수어장대는 군사 지휘와 관측을 위해 지어졌어요.",
+    "file": "ko/nh3_1.m4a",
+    "ms": 3584
+   },
+   {
+    "text": "남한산성에는 한때 지휘소가 다섯 곳 있었는데, 지금 남은 것은 이곳뿐이에요.",
+    "file": "ko/nh3_2.m4a",
+    "ms": 5709
+   },
+   {
+    "text": "높은 자리에 선 데는 이유가 있어요.",
+    "file": "ko/nh3_3.m4a",
+    "ms": 2331
+   },
+   {
+    "text": "산성을 지키려면 성벽뿐 아니라 주변 지형까지 읽어야 했거든요.",
+    "file": "ko/nh3_4.m4a",
+    "ms": 4791
+   },
+   {
+    "text": "1751년에 2층으로 증축되어, 지금의 모습에는 산성 역사의 여러 시기가 함께 담겨 있어요.",
+    "file": "ko/nh3_5.m4a",
+    "ms": 6852
+   }
+  ]
+ },
+ "nh4": {
+  "en": [
+   {
+    "text": "Temporary Palace",
+    "file": "en/nh4_0.m4a",
+    "ms": 1230
+   },
+   {
+    "text": "A haenggung is a palace used when a king is away from the capital.",
+    "file": "en/nh4_1.m4a",
+    "ms": 3259
+   },
+   {
+    "text": "At Namhansanseong, that idea had an urgent purpose: the royal court could move inside the fortress during war or rebellion.",
+    "file": "en/nh4_2.m4a",
+    "ms": 7019
+   },
+   {
+    "text": "King Injo took refuge here during the Qing invasion of 1636.",
+    "file": "en/nh4_3.m4a",
+    "ms": 4943
+   },
+   {
+    "text": "The palace you visit today includes reconstructed buildings, helping us understand how government and royal life continued inside these defenses.",
+    "file": "en/nh4_4.m4a",
+    "ms": 8046
+   }
+  ],
+  "ko": [
+   {
+    "text": "남한산성 행궁",
+    "file": "ko/nh4_0.m4a",
+    "ms": 1309
+   },
+   {
+    "text": "행궁은 왕이 도성을 떠나 있을 때 머무는 궁궐이에요.",
+    "file": "ko/nh4_1.m4a",
+    "ms": 3651
+   },
+   {
+    "text": "남한산성에서는 그 쓰임이 절박했어요.",
+    "file": "ko/nh4_2.m4a",
+    "ms": 2818
+   },
+   {
+    "text": "전쟁이나 반란이 일어나면 조정이 성 안으로 옮겨 올 수 있었죠.",
+    "file": "ko/nh4_3.m4a",
+    "ms": 4384
+   },
+   {
+    "text": "인조는 1636년 청나라가 침입했을 때 이곳으로 피신했어요.",
+    "file": "ko/nh4_4.m4a",
+    "ms": 5012
+   },
+   {
+    "text": "지금 둘러보는 행궁에는 복원된 건물들이 있어, 이 방어 시설 안에서 나랏일과 왕실 생활이 어떻게 이어졌는지 이해하게 해 줘요.",
+    "file": "ko/nh4_5.m4a",
+    "ms": 8728
+   }
+  ]
+ },
+ "hs1": {
+  "en": [
+   {
+    "text": "Hangang crossing",
+    "file": "en/hs1_0.m4a",
+    "ms": 1111
+   },
+   {
+    "text": "In 1795, King Jeongjo's journey to Hwaseong included a remarkable river crossing.",
+    "file": "en/hs1_1.m4a",
+    "ms": 5767
+   },
+   {
+    "text": "Boats were joined together to support a temporary bridge across the Han River.",
+    "file": "en/hs1_2.m4a",
+    "ms": 3974
+   },
+   {
+    "text": "The king was travelling with his mother for celebrations marking her sixtieth birthday.",
+    "file": "en/hs1_3.m4a",
+    "ms": 4481
+   },
+   {
+    "text": "The journey was recorded in words and pictures, including the crossing.",
+    "file": "en/hs1_4.m4a",
+    "ms": 3762
+   },
+   {
+    "text": "Today's riverside is different, but that record preserves an extraordinary moment of royal travel.",
+    "file": "en/hs1_5.m4a",
+    "ms": 5456
+   }
+  ],
+  "ko": [
+   {
+    "text": "한강 배다리",
+    "file": "ko/hs1_0.m4a",
+    "ms": 1006
+   },
+   {
+    "text": "1795년 정조의 화성 행차에는 놀라운 강 건너기가 있었어요.",
+    "file": "ko/hs1_1.m4a",
+    "ms": 4925
+   },
+   {
+    "text": "배들을 이어 붙여 한강을 가로지르는 임시 다리를 받쳤죠.",
+    "file": "ko/hs1_2.m4a",
+    "ms": 4191
+   },
+   {
+    "text": "왕은 어머니의 회갑을 기념하러 어머니와 함께 가는 길이었어요.",
+    "file": "ko/hs1_3.m4a",
+    "ms": 3840
+   },
+   {
+    "text": "이 행차는 글과 그림으로 기록되었고, 강을 건너는 장면도 그 안에 남아 있어요.",
+    "file": "ko/hs1_4.m4a",
+    "ms": 5407
+   },
+   {
+    "text": "오늘의 강변은 달라졌지만, 그 기록은 왕실 행차의 특별한 순간을 지금까지 전해 줘요.",
+    "file": "ko/hs1_5.m4a",
+    "ms": 6302
+   }
+  ]
+ },
+ "hsf1": {
+  "en": [
+   {
+    "text": "Lady Hyegyeong's story",
+    "file": "en/hsf1_0.m4a",
+    "ms": 1432
+   },
+   {
+    "text": "Lady Hyegyeong was King Jeongjo's mother.",
+    "file": "en/hsf1_1.m4a",
+    "ms": 2372
+   },
+   {
+    "text": "Her husband, Crown Prince Sado, died in 1762, when Jeongjo was still a boy.",
+    "file": "en/hsf1_2.m4a",
+    "ms": 5997
+   },
+   {
+    "text": "Years later she wrote a memoir, Hanjungnok, about her life at court.",
+    "file": "en/hsf1_3.m4a",
+    "ms": 4160
+   },
+   {
+    "text": "The journey of 1795 celebrated her sixtieth birthday, and it was also a visit to her husband's tomb near Suwon.",
+    "file": "en/hsf1_4.m4a",
+    "ms": 7953
+   }
+  ],
+  "ko": [
+   {
+    "text": "혜경궁 이야기",
+    "file": "ko/hsf1_0.m4a",
+    "ms": 1120
+   },
+   {
+    "text": "혜경궁 홍씨는 정조의 어머니예요.",
+    "file": "ko/hsf1_1.m4a",
+    "ms": 2328
+   },
+   {
+    "text": "남편 사도세자는 1762년, 정조가 아직 어린 소년이던 때 세상을 떠났어요.",
+    "file": "ko/hsf1_2.m4a",
+    "ms": 6092
+   },
+   {
+    "text": "훗날 혜경궁은 궁중에서의 삶을 담은 회고록 『한중록』을 남겼죠.",
+    "file": "ko/hsf1_3.m4a",
+    "ms": 4569
+   },
+   {
+    "text": "1795년의 행차는 혜경궁의 회갑을 기념하는 길이자, 수원 근처에 있는 남편의 무덤을 찾아가는 길이기도 했어요.",
+    "file": "ko/hsf1_4.m4a",
+    "ms": 8257
+   }
+  ]
+ },
+ "hs2": {
+  "en": [
+   {
+    "text": "Manangyo Bridge",
+    "file": "en/hs2_0.m4a",
+    "ms": 1176
+   },
+   {
+    "text": "Manangyo was completed in 1795 under King Jeongjo.",
+    "file": "en/hs2_1.m4a",
+    "ms": 3998
+   },
+   {
+    "text": "Unlike a temporary crossing assembled for a royal visit, a stone bridge could keep serving other travellers.",
+    "file": "en/hs2_2.m4a",
+    "ms": 5882
+   },
+   {
+    "text": "Its seven stone arches are the detail to notice.",
+    "file": "en/hs2_3.m4a",
+    "ms": 2678
+   },
+   {
+    "text": "There is another twist: the bridge was moved in 1980 during road expansion.",
+    "file": "en/hs2_4.m4a",
+    "ms": 4398
+   },
+   {
+    "text": "So the structure carries the history of the royal road, even though it no longer stands at its original crossing.",
+    "file": "en/hs2_5.m4a",
+    "ms": 5935
+   }
+  ],
+  "ko": [
+   {
+    "text": "만안교",
+    "file": "ko/hs2_0.m4a",
+    "ms": 693
+   },
+   {
+    "text": "만안교는 1795년 정조 때 완공됐어요.",
+    "file": "ko/hs2_1.m4a",
+    "ms": 3897
+   },
+   {
+    "text": "왕의 행차를 위해 잠시 놓는 임시 다리와 달리, 돌다리는 다른 길손들도 계속 건널 수 있었죠.",
+    "file": "ko/hs2_2.m4a",
+    "ms": 6881
+   },
+   {
+    "text": "일곱 개의 돌 아치를 눈여겨보세요.",
+    "file": "ko/hs2_3.m4a",
+    "ms": 2284
+   },
+   {
+    "text": "반전도 하나 있어요.",
+    "file": "ko/hs2_4.m4a",
+    "ms": 1418
+   },
+   {
+    "text": "1980년 도로를 넓히면서 다리가 옮겨졌거든요.",
+    "file": "ko/hs2_5.m4a",
+    "ms": 3985
+   },
+   {
+    "text": "그래서 원래 자리는 아니지만, 이 다리는 여전히 왕의 길의 역사를 품고 있어요.",
+    "file": "ko/hs2_6.m4a",
+    "ms": 5448
+   }
+  ]
+ },
+ "hsf2": {
+  "en": [
+   {
+    "text": "Building a new city",
+    "file": "en/hsf2_0.m4a",
+    "ms": 1014
+   },
+   {
+    "text": "Hwaseong Fortress was built between 1794 and 1796.",
+    "file": "en/hsf2_1.m4a",
+    "ms": 6370
+   },
+   {
+    "text": "King Jeongjo planned Suwon as a new city near his father's relocated tomb.",
+    "file": "en/hsf2_2.m4a",
+    "ms": 4189
+   },
+   {
+    "text": "The scholar Jeong Yak-yong helped design it, and new devices such as a lifting crane made the work faster.",
+    "file": "en/hsf2_3.m4a",
+    "ms": 5666
+   },
+   {
+    "text": "A detailed construction record, Hwaseong Seongyeok Uigwe, later guided its restoration, and UNESCO listed the fortress in 1997.",
+    "file": "en/hsf2_4.m4a",
+    "ms": 9238
+   }
+  ],
+  "ko": [
+   {
+    "text": "신도시 화성을 짓다",
+    "file": "ko/hsf2_0.m4a",
+    "ms": 1657
+   },
+   {
+    "text": "수원화성은 1794년부터 1796년까지 지어졌어요.",
+    "file": "ko/hsf2_1.m4a",
+    "ms": 5314
+   },
+   {
+    "text": "정조는 옮겨 모신 아버지의 무덤 가까이에 수원을 새 도시로 계획했죠.",
+    "file": "ko/hsf2_2.m4a",
+    "ms": 4747
+   },
+   {
+    "text": "학자 정약용이 설계를 도왔고, 거중기 같은 새 기구 덕분에 공사가 빨라졌어요.",
+    "file": "ko/hsf2_3.m4a",
+    "ms": 5847
+   },
+   {
+    "text": "공사 과정을 자세히 남긴 『화성성역의궤』는 훗날 복원의 길잡이가 되었고, 수원화성은 1997년 유네스코 세계유산이 되었어요.",
+    "file": "ko/hsf2_4.m4a",
+    "ms": 9649
+   }
+  ]
+ },
+ "hs3": {
+  "en": [
+   {
+    "text": "Jijidae Pass",
+    "file": "en/hs3_0.m4a",
+    "ms": 945
+   },
+   {
+    "text": "Jijidae Pass lies between Uiwang and Suwon.",
+    "file": "en/hs3_1.m4a",
+    "ms": 2640
+   },
+   {
+    "text": "Local tradition tells of King Jeongjo slowing his return journey here, reluctant to leave the area associated with his father's tomb.",
+    "file": "en/hs3_2.m4a",
+    "ms": 7388
+   },
+   {
+    "text": "The story connects the pass with a son's grief and devotion.",
+    "file": "en/hs3_3.m4a",
+    "ms": 2995
+   },
+   {
+    "text": "What we can see in the historical record is the memorial stone erected in 1807 to honour that devotion.",
+    "file": "en/hs3_4.m4a",
+    "ms": 5946
+   },
+   {
+    "text": "The remembered emotion gives this ordinary-looking road another layer.",
+    "file": "en/hs3_5.m4a",
+    "ms": 3193
+   }
+  ],
+  "ko": [
+   {
+    "text": "지지대 고개",
+    "file": "ko/hs3_0.m4a",
+    "ms": 939
+   },
+   {
+    "text": "지지대 고개는 의왕과 수원 사이에 있어요.",
+    "file": "ko/hs3_1.m4a",
+    "ms": 2820
+   },
+   {
+    "text": "전해 오는 이야기에 따르면, 정조는 아버지의 무덤이 있는 곳을 떠나기 아쉬워 돌아가는 길에 이 고개에서 걸음을 늦췄대요.",
+    "file": "ko/hs3_2.m4a",
+    "ms": 7960
+   },
+   {
+    "text": "이 이야기는 고개를 아들의 슬픔과 효심으로 이어 줘요.",
+    "file": "ko/hs3_3.m4a",
+    "ms": 3526
+   },
+   {
+    "text": "역사 기록으로 확인할 수 있는 것은 그 효심을 기리려 1807년에 세운 비석이에요.",
+    "file": "ko/hs3_4.m4a",
+    "ms": 5813
+   },
+   {
+    "text": "기억 속 마음이 평범해 보이는 이 길에 또 하나의 겹을 더해 줘요.",
+    "file": "ko/hs3_5.m4a",
+    "ms": 4240
+   }
+  ]
+ },
+ "hs4": {
+  "en": [
+   {
+    "text": "Old pine road",
+    "file": "en/hs4_0.m4a",
+    "ms": 910
+   },
+   {
+    "text": "Nosongjidae is the old pine-tree belt along the historic road near Suwon.",
+    "file": "en/hs4_1.m4a",
+    "ms": 4104
+   },
+   {
+    "text": "The heritage account says King Jeongjo funded the planting of five hundred pines and forty weeping willows on this route.",
+    "file": "en/hs4_2.m4a",
+    "ms": 6130
+   },
+   {
+    "text": "It links the landscape with journeys to his father's tomb.",
+    "file": "en/hs4_3.m4a",
+    "ms": 2887
+   },
+   {
+    "text": "These are historical planting figures, not a count of trees standing today.",
+    "file": "en/hs4_4.m4a",
+    "ms": 4305
+   },
+   {
+    "text": "The surviving landscape is cared for as a living part of that memory.",
+    "file": "en/hs4_5.m4a",
+    "ms": 3471
+   }
+  ],
+  "ko": [
+   {
+    "text": "노송지대",
+    "file": "ko/hs4_0.m4a",
+    "ms": 844
+   },
+   {
+    "text": "노송지대는 수원 근처 옛길을 따라 이어진 오래된 소나무 숲이에요.",
+    "file": "ko/hs4_1.m4a",
+    "ms": 4618
+   },
+   {
+    "text": "문화재 기록에 따르면 정조는 이 길에 소나무 500그루와 능수버들 40그루를 심도록 비용을 댔어요.",
+    "file": "ko/hs4_2.m4a",
+    "ms": 6893
+   },
+   {
+    "text": "이 풍경은 아버지의 무덤을 오가던 여정과 이어져 있어요.",
+    "file": "ko/hs4_3.m4a",
+    "ms": 3817
+   },
+   {
+    "text": "다만 이 숫자는 역사 속 식재 기록이지, 지금 서 있는 나무의 수는 아니에요.",
+    "file": "ko/hs4_4.m4a",
+    "ms": 5145
+   },
+   {
+    "text": "남아 있는 풍경은 그 기억의 살아 있는 일부로 보살펴지고 있어요.",
+    "file": "ko/hs4_5.m4a",
+    "ms": 4200
+   }
+  ]
+ },
+ "hs5": {
+  "en": [
+   {
+    "text": "Bongsudang Hall",
+    "file": "en/hs5_0.m4a",
+    "ms": 1037
+   },
+   {
+    "text": "In 1795, King Jeongjo honoured his mother, Lady Hyegyeong, with a sixtieth-birthday banquet at Bongsudang Hall.",
+    "file": "en/hs5_1.m4a",
+    "ms": 7787
+   },
+   {
+    "text": "The event was part of his celebrated journey to Hwaseong.",
+    "file": "en/hs5_2.m4a",
+    "ms": 3075
+   },
+   {
+    "text": "Yet this palace was more than a setting for royal festivities.",
+    "file": "en/hs5_3.m4a",
+    "ms": 3220
+   },
+   {
+    "text": "When the king was away, it also served the local administration.",
+    "file": "en/hs5_4.m4a",
+    "ms": 3624
+   },
+   {
+    "text": "The same complex held both the intimate story of a family and the everyday business of governing a city.",
+    "file": "en/hs5_5.m4a",
+    "ms": 5201
+   }
+  ],
+  "ko": [
+   {
+    "text": "봉수당",
+    "file": "ko/hs5_0.m4a",
+    "ms": 684
+   },
+   {
+    "text": "1795년 정조는 봉수당에서 어머니 혜경궁 홍씨의 회갑 잔치를 열어 어머니를 기렸어요.",
+    "file": "ko/hs5_1.m4a",
+    "ms": 6759
+   },
+   {
+    "text": "이 잔치는 널리 알려진 화성 행차의 한 부분이었죠.",
+    "file": "ko/hs5_2.m4a",
+    "ms": 3434
+   },
+   {
+    "text": "하지만 이 행궁은 왕실 잔치의 무대만은 아니었어요.",
+    "file": "ko/hs5_3.m4a",
+    "ms": 3328
+   },
+   {
+    "text": "왕이 없을 때는 지방 행정을 맡는 관아로도 쓰였거든요.",
+    "file": "ko/hs5_4.m4a",
+    "ms": 3874
+   },
+   {
+    "text": "한 공간에 한 가족의 애틋한 이야기와 도시를 다스리는 일상이 함께 담겨 있어요.",
+    "file": "ko/hs5_5.m4a",
+    "ms": 5441
+   }
+  ]
+ },
+ "fv1": {
+  "en": [
+   {
+    "text": "Leaving the city",
+    "file": "en/fv1_0.m4a",
+    "ms": 863
+   },
+   {
+    "text": "Seoul's palaces are protected heritage, so most period scenes with crowds and markets are filmed in places like the one ahead.",
+    "file": "en/fv1_1.m4a",
+    "ms": 6992
+   }
+  ],
+  "ko": [
+   {
+    "text": "도시를 벗어나며",
+    "file": "ko/fv1_0.m4a",
+    "ms": 1209
+   },
+   {
+    "text": "서울의 궁궐은 보호 문화재라, 군중과 장터가 나오는 사극 장면은 대부분 지금 향하는 곳 같은 촬영지에서 찍어요.",
+    "file": "ko/fv1_1.m4a",
+    "ms": 8100
+   }
+  ]
+ },
+ "fv2": {
+  "en": [
+   {
+    "text": "Houses from every region",
+    "file": "en/fv2_0.m4a",
+    "ms": 1355
+   },
+   {
+    "text": "Look at the roofs when you arrive.",
+    "file": "en/fv2_1.m4a",
+    "ms": 1548
+   },
+   {
+    "text": "Thatched, tiled and bark roofs come from different regions and climates across Korea.",
+    "file": "en/fv2_2.m4a",
+    "ms": 4635
+   }
+  ],
+  "ko": [
+   {
+    "text": "팔도의 집",
+    "file": "ko/fv2_0.m4a",
+    "ms": 749
+   },
+   {
+    "text": "도착하면 지붕을 보세요.",
+    "file": "ko/fv2_1.m4a",
+    "ms": 1928
+   },
+   {
+    "text": "초가, 기와, 너와 지붕은 저마다 다른 지역과 기후에서 왔어요.",
+    "file": "ko/fv2_2.m4a",
+    "ms": 4461
+   }
+  ]
+ },
+ "nm1": {
+  "en": [
+   {
+    "text": "Along the Bukhan River",
+    "file": "en/nm1_0.m4a",
+    "ms": 1169
+   },
+   {
+    "text": "This road follows the Bukhan River.",
+    "file": "en/nm1_1.m4a",
+    "ms": 1821
+   },
+   {
+    "text": "For decades it has been Seoul's favourite weekend escape by car and by rail.",
+    "file": "en/nm1_2.m4a",
+    "ms": 3983
+   }
+  ],
+  "ko": [
+   {
+    "text": "북한강을 따라",
+    "file": "ko/nm1_0.m4a",
+    "ms": 1116
+   },
+   {
+    "text": "이 길은 북한강을 따라가요.",
+    "file": "ko/nm1_1.m4a",
+    "ms": 1855
+   },
+   {
+    "text": "오랫동안 서울 사람들이 차와 기차로 즐겨 찾은 주말 여행길이에요.",
+    "file": "ko/nm1_2.m4a",
+    "ms": 4374
+   }
+  ]
+ },
+ "nm2": {
+  "en": [
+   {
+    "text": "The tree-lined lane",
+    "file": "en/nm2_0.m4a",
+    "ms": 1022
+   },
+   {
+    "text": "The tall metasequoia lane on the island is where the drama's most famous scenes were filmed.",
+    "file": "en/nm2_1.m4a",
+    "ms": 4574
+   },
+   {
+    "text": "Visitors still recreate them today.",
+    "file": "en/nm2_2.m4a",
+    "ms": 1919
+   }
+  ],
+  "ko": [
+   {
+    "text": "가로수길",
+    "file": "ko/nm2_0.m4a",
+    "ms": 797
+   },
+   {
+    "text": "섬 안의 메타세쿼이아 길은 드라마의 대표 장면을 찍은 곳이에요.",
+    "file": "ko/nm2_1.m4a",
+    "ms": 4373
+   },
+   {
+    "text": "지금도 많은 사람들이 그 장면을 따라 해요.",
+    "file": "ko/nm2_2.m4a",
+    "ms": 3016
+   }
+  ]
+ },
+ "outro:changdeokgung": {
+  "en": [
+   {
+    "text": "When you arrive, three places are worth seeing: Donhwamun Gate, Injeongjeon Hall and Buyongji Pond.",
+    "file": "en/outro_changdeokgung_0.m4a",
+    "ms": 6178
+   },
+   {
+    "text": "Explore them on foot after you park.",
+    "file": "en/outro_changdeokgung_1.m4a",
+    "ms": 2098
+   }
+  ],
+  "ko": [
+   {
+    "text": "도착하면 꼭 볼 세 곳이에요. 돈화문, 인정전, 부용지.",
+    "file": "ko/outro_changdeokgung_0.m4a",
+    "ms": 4831
+   },
+   {
+    "text": "주차한 뒤 걸어서 둘러보세요.",
+    "file": "ko/outro_changdeokgung_1.m4a",
+    "ms": 2143
+   }
+  ]
+ },
+ "outro:namhansanseong": {
+  "en": [
+   {
+    "text": "When you arrive, three places are worth seeing: Temporary Palace, South Gate and Sueojangdae.",
+    "file": "en/outro_namhansanseong_0.m4a",
+    "ms": 5806
+   },
+   {
+    "text": "Explore them on foot after you park.",
+    "file": "en/outro_namhansanseong_1.m4a",
+    "ms": 2098
+   }
+  ],
+  "ko": [
+   {
+    "text": "도착하면 꼭 볼 세 곳이에요. 남한산성 행궁, 남문 (지화문), 수어장대.",
+    "file": "ko/outro_namhansanseong_0.m4a",
+    "ms": 5911
+   },
+   {
+    "text": "주차한 뒤 걸어서 둘러보세요.",
+    "file": "ko/outro_namhansanseong_1.m4a",
+    "ms": 2143
+   }
+  ]
+ },
+ "outro:hwaseong": {
+  "en": [
+   {
+    "text": "When you arrive, three places are worth seeing: Sinpungnu Gate, Bongsudang Hall and Janganmun Gate.",
+    "file": "en/outro_hwaseong_0.m4a",
+    "ms": 6108
+   },
+   {
+    "text": "Explore them on foot after you park.",
+    "file": "en/outro_hwaseong_1.m4a",
+    "ms": 2098
+   }
+  ],
+  "ko": [
+   {
+    "text": "도착하면 꼭 볼 세 곳이에요. 신풍루, 봉수당, 장안문.",
+    "file": "ko/outro_hwaseong_0.m4a",
+    "ms": 4866
+   },
+   {
+    "text": "주차한 뒤 걸어서 둘러보세요.",
+    "file": "ko/outro_hwaseong_1.m4a",
+    "ms": 2143
+   }
+  ]
+ },
+ "outro:folkvillage": {
+  "en": [
+   {
+    "text": "When you arrive, three places are worth seeing: Village gate, Magistrate's office and Market street.",
+    "file": "en/outro_folkvillage_0.m4a",
+    "ms": 5911
+   },
+   {
+    "text": "Explore them on foot after you park.",
+    "file": "en/outro_folkvillage_1.m4a",
+    "ms": 2098
+   }
+  ],
+  "ko": [
+   {
+    "text": "도착하면 꼭 볼 세 곳이에요. 마을 입구, 관아, 장터.",
+    "file": "ko/outro_folkvillage_0.m4a",
+    "ms": 4587
+   },
+   {
+    "text": "주차한 뒤 걸어서 둘러보세요.",
+    "file": "ko/outro_folkvillage_1.m4a",
+    "ms": 2143
+   }
+  ]
+ },
+ "outro:nami": {
+  "en": [
+   {
+    "text": "When you arrive, three places are worth seeing: Ferry wharf, Metasequoia Lane and Riverside path.",
+    "file": "en/outro_nami_0.m4a",
+    "ms": 6050
+   },
+   {
+    "text": "Explore them on foot after you park.",
+    "file": "en/outro_nami_1.m4a",
+    "ms": 2098
+   }
+  ],
+  "ko": [
+   {
+    "text": "도착하면 꼭 볼 세 곳이에요. 선착장, 메타세쿼이아길, 강변 산책로.",
+    "file": "ko/outro_nami_0.m4a",
+    "ms": 6038
+   },
+   {
+    "text": "주차한 뒤 걸어서 둘러보세요.",
+    "file": "ko/outro_nami_1.m4a",
+    "ms": 2143
+   }
+  ]
+ }
+}
