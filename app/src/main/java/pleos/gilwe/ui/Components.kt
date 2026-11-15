@@ -285,46 +285,62 @@ private fun DrawScope.roof(color: Color, center: Offset, width: Float, height: F
     }
 }
 
-/** 스탬프 그림: 원형 또는 사각 테두리 안에 장소 실루엣을 잉크색 선으로 */
+/** 스탬프 그림: 주요 역사 코스는 전용 이미지, 나머지 코스는 기존 벡터 그림을 사용한다. */
 @Composable
 fun StampArt(style: ArtStyle, round: Boolean, label: String, modifier: Modifier = Modifier, ink: Color = C.Ink) {
+    val stampImage = when (style) {
+        ArtStyle.PALACE -> R.drawable.stamp_changdeokgung
+        ArtStyle.FORTRESS -> R.drawable.stamp_namhansanseong
+        ArtStyle.HAENGGUNG -> R.drawable.stamp_hwaseong
+        else -> null
+    }
+
     Box(modifier, contentAlignment = Alignment.BottomCenter) {
-        Canvas(Modifier.matchParentSize()) {
-            val s = Stroke(width = size.minDimension * 0.022f, cap = StrokeCap.Round)
-            val inset = size.minDimension * 0.06f
-            if (round) {
-                drawCircle(ink, radius = size.minDimension / 2 - inset, style = s)
-                drawCircle(ink, radius = size.minDimension / 2 - inset * 2.2f, style = Stroke(size.minDimension * 0.01f))
-            } else {
-                drawRect(ink, Offset(inset, inset), Size(size.width - inset * 2, size.height - inset * 2), style = s)
-            }
-            val cx = size.width / 2
-            val base = size.height * 0.62f
-            val w = size.width * 0.5f
-            // 능선
-            val r = Path().apply {
-                moveTo(cx - w * 0.9f, base)
-                quadraticTo(cx - w * 0.4f, base - size.height * 0.2f, cx, base - size.height * 0.08f)
-                quadraticTo(cx + w * 0.4f, base - size.height * 0.24f, cx + w * 0.9f, base)
-            }
-            drawPath(r, ink.copy(alpha = 0.6f), style = Stroke(size.minDimension * 0.012f))
-            when (style) {
-                ArtStyle.ISLAND -> for (i in -2..2) {
-                    val x = cx + i * w * 0.22f
-                    drawLine(ink, Offset(x, base - size.height * 0.22f), Offset(x, base), strokeWidth = size.minDimension * 0.02f)
+        if (stampImage != null) {
+            Image(
+                painter = painterResource(stampImage),
+                contentDescription = label,
+                contentScale = ContentScale.Fit,
+                modifier = Modifier.matchParentSize().padding(4.dp),
+            )
+        } else {
+            Canvas(Modifier.matchParentSize()) {
+                val s = Stroke(width = size.minDimension * 0.022f, cap = StrokeCap.Round)
+                val inset = size.minDimension * 0.06f
+                if (round) {
+                    drawCircle(ink, radius = size.minDimension / 2 - inset, style = s)
+                    drawCircle(ink, radius = size.minDimension / 2 - inset * 2.2f, style = Stroke(size.minDimension * 0.01f))
+                } else {
+                    drawRect(ink, Offset(inset, inset), Size(size.width - inset * 2, size.height - inset * 2), style = s)
                 }
-                ArtStyle.FOLK_VILLAGE -> drawArc(ink, 180f, 180f, false, Offset(cx - w * 0.4f, base - size.height * 0.14f), Size(w * 0.8f, size.height * 0.28f), style = s)
-                else -> {
-                    val roof = Path().apply {
-                        moveTo(cx - w * 0.55f, base - size.height * 0.08f)
-                        quadraticTo(cx - w * 0.3f, base - size.height * 0.14f, cx - w * 0.28f, base - size.height * 0.2f)
-                        lineTo(cx + w * 0.28f, base - size.height * 0.2f)
-                        quadraticTo(cx + w * 0.3f, base - size.height * 0.14f, cx + w * 0.55f, base - size.height * 0.08f)
+                val cx = size.width / 2
+                val base = size.height * 0.62f
+                val w = size.width * 0.5f
+                // 능선
+                val r = Path().apply {
+                    moveTo(cx - w * 0.9f, base)
+                    quadraticTo(cx - w * 0.4f, base - size.height * 0.2f, cx, base - size.height * 0.08f)
+                    quadraticTo(cx + w * 0.4f, base - size.height * 0.24f, cx + w * 0.9f, base)
+                }
+                drawPath(r, ink.copy(alpha = 0.6f), style = Stroke(size.minDimension * 0.012f))
+                when (style) {
+                    ArtStyle.ISLAND -> for (i in -2..2) {
+                        val x = cx + i * w * 0.22f
+                        drawLine(ink, Offset(x, base - size.height * 0.22f), Offset(x, base), strokeWidth = size.minDimension * 0.02f)
                     }
-                    drawPath(roof, ink, style = s)
-                    for (i in -2..2) {
-                        val x = cx + i * w * 0.14f
-                        drawLine(ink, Offset(x, base - size.height * 0.08f), Offset(x, base + size.height * 0.04f), strokeWidth = size.minDimension * 0.012f)
+                    ArtStyle.FOLK_VILLAGE -> drawArc(ink, 180f, 180f, false, Offset(cx - w * 0.4f, base - size.height * 0.14f), Size(w * 0.8f, size.height * 0.28f), style = s)
+                    else -> {
+                        val roof = Path().apply {
+                            moveTo(cx - w * 0.55f, base - size.height * 0.08f)
+                            quadraticTo(cx - w * 0.3f, base - size.height * 0.14f, cx - w * 0.28f, base - size.height * 0.2f)
+                            lineTo(cx + w * 0.28f, base - size.height * 0.2f)
+                            quadraticTo(cx + w * 0.3f, base - size.height * 0.14f, cx + w * 0.55f, base - size.height * 0.08f)
+                        }
+                        drawPath(roof, ink, style = s)
+                        for (i in -2..2) {
+                            val x = cx + i * w * 0.14f
+                            drawLine(ink, Offset(x, base - size.height * 0.08f), Offset(x, base + size.height * 0.04f), strokeWidth = size.minDimension * 0.012f)
+                        }
                     }
                 }
             }

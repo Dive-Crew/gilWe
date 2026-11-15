@@ -432,7 +432,17 @@ fun PassportBook(lang: Lang, visited: List<Course>, highlight: String?, modifier
                     Text(s.noStampsYet, fontSize = 18.sp, color = C.InkSoft)
                 }
                 others.forEachIndexed { i, c ->
-                    StampArt(c.art, round = i % 2 == 0, label = c.place.ko, modifier = Modifier.weight(1f, fill = false).fillMaxHeight(0.7f).aspectRatio(1f, matchHeightConstraintsFirst = true))
+                    Box(
+                        Modifier.weight(1f).fillMaxHeight(),
+                        contentAlignment = Alignment.Center,
+                    ) {
+                        StampArt(
+                            c.art,
+                            round = i % 2 == 0,
+                            label = c.place.ko,
+                            modifier = Modifier.fillMaxWidth(0.9f).aspectRatio(1f),
+                        )
+                    }
                 }
             }
             Row {

@@ -389,7 +389,26 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         val t = _trip.value ?: return
         val next = t.nextStory ?: return
         scheduler?.played?.add(next.id)
-        _trip.value = t.copy(progress = maxOf(t.progress, next.at), storyId = next.id, storyIndex = t.course.stories.indexOf(next), storyProgress = 0f, storyPaused = false, played = t.played + next.id)
+        val locationScheduled = t.storyId != null || t.nextId != null || t.played.isNotEmpty()
+        _trip.value = if (locationScheduled) {
+            t.copy(
+                progress = maxOf(t.progress, next.at),
+                storyId = next.id,
+                storyIndex = t.course.stories.indexOf(next),
+                storyProgress = 0f,
+                storyPaused = false,
+                played = t.played + next.id,
+            )
+        } else {
+            // 일반 주행은 목록 순서를 유지한다. storyId/played 를 채우면 위치 기반 모드로
+            // 오인되어 이미 들은 앞 이야기가 다시 선택될 수 있다.
+            t.copy(
+                progress = maxOf(t.progress, next.at),
+                storyIndex = t.course.stories.indexOf(next),
+                storyProgress = 0f,
+                storyPaused = false,
+            )
+        }
         speakStory(next)
     }
 
@@ -489,9 +508,10 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
             "drive", "drive_navi", "drive_loc" -> {
                 val c = Catalog.course(cid)
                 driveJob?.cancel()
-                _trip.value = Trip(c, _start.value, storyIndex = 1, storyProgress = 0.4f, naviGuided = true,
+                _trip.value = Trip(c, _start.value, storyIndex = 0, storyProgress = 0f, naviGuided = true,
                     waitingForNavi = screen == "drive_navi", locationLost = screen == "drive_loc")
                 _screen.value = Screen.Drive
+                c.stories.firstOrNull()?.let(::speakStory)
             }
         }
     }
