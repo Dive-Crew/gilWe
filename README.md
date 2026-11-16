@@ -78,6 +78,7 @@ adb shell appops set pleos.gilwe GET_USAGE_STATS allow       # 내비가 앞에 
 | 언어·UI | Kotlin, Jetpack Compose |
 | SDK | Pleos Vehicle SDK 2.3.2 (기어), NaviHelper SDK 3.0.5 (내비), TextToSpeech SDK 3.3.1 (음성 합성) |
 | 검증 환경 | Pleos Connect Emulator v2.1.0 (API 34), macOS |
+| 화면 규격 | 2560 × 1440, 160dpi (에뮬레이터 AVD 기본값) |
 | 화면 언어 | 6개 언어 선택, 화면 문구·녹음 음성은 한국어·영어 (그 밖의 언어는 TTS 낭독) |
 | 콘텐츠 | 5개 코스, 이야기 19편 + 코스 소개 5편 + 마무리 안내 5편 |
 
@@ -102,11 +103,11 @@ python3 tools/make_voice.py
 
 | 파일 | 설명 |
 |---|---|
-| [`release/gilwe-v1.0.apk`](release/gilwe-v1.0.apk) | 제출용 APK (versionName 1.0, debug 키 서명) |
+| [`apk/DiveCrew_GilWe_release.apk`](apk/DiveCrew_GilWe_release.apk) | 제출용 APK (versionName 1.0, debug 키 서명) |
 | `app/build/outputs/apk/release/app-release.apk` | `./gradlew assembleRelease` 빌드 결과 |
 
 ```bash
-adb install -r release/gilwe-v1.0.apk
+adb install -r apk/DiveCrew_GilWe_release.apk
 ```
 
 ---
